@@ -1,6 +1,6 @@
 This plugin excludes uglified files from ESLint's linting.
 
-At corrent stage, the exclusion rule is quite primitive: if any line in a file is longger than 500 chars, the file will be exclued.
+At corrent stage, the exclusion rule is quite primitive: if any line in a file is longger than 500 chars, the file will be excluded.
 
 ## Installation
 
@@ -30,7 +30,6 @@ Add `ignoreuglify` to the plugins section of your `.eslintrc` configuration file
 }
 ```
 
+## License
 
-
-
-
+MIT
