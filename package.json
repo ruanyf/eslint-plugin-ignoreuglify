@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ignoreuglify",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "exclude uglified files from ESLint's linting",
   "keywords": [
     "eslint",
