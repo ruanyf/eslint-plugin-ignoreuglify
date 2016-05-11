@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ignoreuglify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "exclude uglified files from ESLint's linting",
   "keywords": [
     "eslint",
@@ -22,10 +22,9 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "repository" :
-  {
-    "type" : "git",
-    "url" : "https://github.com/ruanyf/eslint-plugin-ignoreuglify"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanyf/eslint-plugin-ignoreuglify"
   },
   "license": "MIT"
 }
