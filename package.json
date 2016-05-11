@@ -10,7 +10,7 @@
   "author": "Ruan Yifeng",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha tests --recursive"
+    "test": "mocha test/plugin.js"
   },
   "dependencies": {
     "requireindex": "~1.1.0"
