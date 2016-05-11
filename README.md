@@ -1,6 +1,6 @@
-# eslint-plugin-ignoreuglify
+This plugin excludes uglified files from ESLint's linting.
 
-exclude uglified files from Eslint
+At corrent stage, the exclusion rule is quite primitive: if any line in a file is longger than 500 chars, the file will be exclued.
 
 ## Installation
 
